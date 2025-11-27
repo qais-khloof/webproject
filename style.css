@@ -143,3 +143,13 @@ body {
   padding-right: 2.5rem;
 }
 
+.about-section div {
+  flex: 1 1;
+  padding-left: 2.5rem;
+  width: 37%;
+}
+
+.about-section div p {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
