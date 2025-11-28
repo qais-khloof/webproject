@@ -157,3 +157,12 @@ body {
 .about-section div h2 {
   font-size: 40px;
 }
+
+.about-section div h2 {
+  font-size: 40px;
+}
+
+.about-section div p {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
