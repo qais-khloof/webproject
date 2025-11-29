@@ -361,3 +361,31 @@ body {
   column-gap: 20px;
   row-gap: 20px;
 }
+
+.reviews-section .review-card {
+  box-shadow: 0px 0px 6px #099da1;
+  width: 250px;
+  padding: 15px;
+}
+
+.review-profile-img {
+  border: none;
+  width: 80px;
+  border-radius: 50px;
+}
+
+.reviews-section .review-card .review-header div h3 {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.reviews-section .review-card .review-header div i {
+  font-size: 80px;
+  padding-top: 20px;
+}
+
+.review-header {
+  display: flex;
+  justify-content: space-between;
+}
