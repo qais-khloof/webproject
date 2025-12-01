@@ -454,3 +454,11 @@ body {
   width: 350px;
   height: 250px;
 }
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px 50px;
+  background-color: #efefef;
+}
