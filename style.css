@@ -508,3 +508,7 @@ blog-title .footer-description {
 .footer-section a:hover {
   color: #00b4d8;
 }
+
+.social-icons {
+  display: flex;
+}
