@@ -532,3 +532,7 @@ blog-title .footer-description {
   transition: background-color 0.3s ease;
 }
 
+.newsletter-form input::placeholder {
+  color: #666;
+}
+
