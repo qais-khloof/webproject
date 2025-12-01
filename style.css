@@ -484,3 +484,10 @@ blog-title .footer-description {
   margin-bottom: 10px;
   color: #333;
 }
+
+.contact-info span {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #333;
+}
