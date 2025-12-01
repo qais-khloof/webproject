@@ -504,3 +504,7 @@ blog-title .footer-description {
   transition: color 0.3s ease;
   padding-bottom: 0.5rem;
 }
+
+.footer-section a:hover {
+  color: #00b4d8;
+}
