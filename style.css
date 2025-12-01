@@ -550,3 +550,7 @@ blog-title .footer-description {
   margin-right: auto;
 }
 
+.newsletter-form button:hover {
+  background-color: #0096c7;
+}
+
