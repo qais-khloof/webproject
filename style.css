@@ -462,3 +462,8 @@ body {
   padding: 20px 50px;
   background-color: #efefef;
 }
+
+.footer-section {
+  flex: 1;
+  margin-right: 50px;
+}
