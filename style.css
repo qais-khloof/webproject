@@ -512,3 +512,12 @@ blog-title .footer-description {
 .social-icons {
   display: flex;
 }
+
+.newsletter-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: stretch;
+}
+
+
