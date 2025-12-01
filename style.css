@@ -467,3 +467,14 @@ body {
   flex: 1;
   margin-right: 50px;
 }
+
+.book-icon {
+  width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+blog-title .footer-description {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
