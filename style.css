@@ -520,7 +520,6 @@ blog-title .footer-description {
   align-items: stretch;
 }
 
-
 .newsletter-form input {
   width: 100%;
   padding: 12px 20px;
@@ -553,4 +552,3 @@ blog-title .footer-description {
 .newsletter-form button:hover {
   background-color: #0096c7;
 }
-
